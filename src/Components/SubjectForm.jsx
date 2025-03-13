@@ -42,7 +42,7 @@ const SubjectForm = ({subject,handleChange,addSubject}) => {
         <option value="C">C</option>
       </select>
 
-      <button className='bg-red-400 cursor-pointer font-semibold text-white rounded ' 
+      <button className='bg-red-400 cursor-pointer font-semibold text-white rounded p-1 ' 
       onClick={addSubject} >Add Subject</button>
 
     
