@@ -77,7 +77,7 @@ const Calculator = () => {
   }
 
   return (
-    <div className='flex flex-col gap-4 p-2 w-full md:w-[30%]  bg-pink-300 md:h-[90vh] rounded mt-2'>
+    <div className='flex flex-col gap-4 p-2 w-full md:w-[30%]  bg-pink-300 h-auto rounded mt-2'>
         <div className='flex justify-center font-semibold text-red-500'>
         <h1 className='text-lg'>GPA-CALCULATOR</h1>
         </div>
